@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=l4s
+Description=ChromeOS Theme
+Author=Azkali Manad
+Copyright=(c) 2020, Azkali Manad
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1.0
+Website=https://github.com/Azkali/l4s-kde
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=a.ffcc7@gmail.com
+Theme-Id=l4s
+Theme-API=2.0

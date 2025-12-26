@@ -1,5 +1,5 @@
 
-Orchis sddm theme for KDE Plasma desktop.
+l4s sddm theme for KDE Plasma desktop.
 
 ## Installation
 

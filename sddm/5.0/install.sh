@@ -37,8 +37,8 @@ prompt () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install Orchis in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/Orchis" "${THEME_DIR}"
+  prompt -i "\n * Install l4s in ${THEME_DIR}... "
+  cp -r "${REO_DIR}/l4s" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else

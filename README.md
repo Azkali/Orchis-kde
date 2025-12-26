@@ -1,5 +1,5 @@
 
-Orchis kde is a materia Design theme for KDE Plasma desktop.
+l4s kde is a materia Design theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
@@ -21,13 +21,13 @@ In this repository you'll find:
 
   Run `kvantummanager` to choose and apply **ChromeOS** theme.
 
-- Install [Tela circle icon theme](https://github.com/vinceliuice/Tela-circle-icon-theme) for a more consistent and beautiful experience.
+- Install [Tela circle icon theme](https://github.com/Azkali/Tela-circle-icon-theme) for a more consistent and beautiful experience.
 
 ## Donate
 
 If you like my project, you can donate at:
 
-<span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+<span class="paypal"><a href="https://www.paypal.me/Azkali" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
 ## License
 
@@ -35,5 +35,5 @@ GNU GPL v3
 
 ## preview
 
-![1](plasma/look-and-feel/com.github.vinceliuice.Orchis/contents/previews/fullscreenpreview.jpg)
-![2](plasma/look-and-feel/com.github.vinceliuice.Orchis-dark/contents/previews/fullscreenpreview.jpg)
+![1](plasma/look-and-feel/com.github.azkali.l4s/contents/previews/fullscreenpreview.jpg)
+![2](plasma/look-and-feel/com.github.azkali.l4s-dark/contents/previews/fullscreenpreview.jpg)

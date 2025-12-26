@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "a.ffcc7@gmail.com",
+                "Name": "Azkali Manad"
+            }
+        ],
+        "Id": "L4S",
+        "License": "CC-BY-SA-4.0",
+        "Name": "L4S"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#ce55cf"
+}
