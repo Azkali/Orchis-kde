@@ -20,7 +20,7 @@ else
   WALLPAPER_DIR="$HOME/.local/share/wallpapers"
 fi
 
-THEME_NAME=Orchis
+THEME_NAME=l4s
 
 [[ ! -d ${AURORAE_DIR} ]] && mkdir -p ${AURORAE_DIR}
 [[ ! -d ${SCHEMES_DIR} ]] && mkdir -p ${SCHEMES_DIR}
