@@ -1,16 +1,17 @@
 #!/bin/bash
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
+DEST_DIR=${DEST_DIR:-"/"}
 ROOT_UID=0
 
 # Destination directory
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  AURORAE_DIR="/usr/share/aurorae/themes"
-  SCHEMES_DIR="/usr/share/color-schemes"
-  PLASMA_DIR="/usr/share/plasma/desktoptheme"
-  LOOKFEEL_DIR="/usr/share/plasma/look-and-feel"
-  KVANTUM_DIR="/usr/share/Kvantum"
-  WALLPAPER_DIR="/usr/share/wallpapers"
+  AURORAE_DIR="${DEST_DIR}/usr/share/aurorae/themes"
+  SCHEMES_DIR="${DEST_DIR}/usr/share/color-schemes"
+  PLASMA_DIR="${DEST_DIR}/usr/share/plasma/desktoptheme"
+  LOOKFEEL_DIR="${DEST_DIR}/usr/share/plasma/look-and-feel"
+  KVANTUM_DIR="${DEST_DIR}/usr/share/Kvantum"
+  WALLPAPER_DIR="${DEST_DIR}/usr/share/wallpapers"
 else
   AURORAE_DIR="$HOME/.local/share/aurorae/themes"
   SCHEMES_DIR="$HOME/.local/share/color-schemes"
